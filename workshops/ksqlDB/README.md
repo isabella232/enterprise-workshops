@@ -21,7 +21,7 @@
 
 <br>
 
-Welcome to “Enable Real-Time Data Transformations and Stream Processing with ksqlDB”! In this workshop, you will learn how to build stream processing applications using ksqlDB as well as learn about the use cases ksqlDB unlocks: streaming ETL, data discovery and enrichment, anomaly detection, and more.
+Welcome to “Streaming ETL and Event Stream Processing using ksqlDB”! In this workshop, you will learn how to build stream processing applications using ksqlDB as well as learn about the use cases ksqlDB unlocks: streaming ETL, data discovery and enrichment, anomaly detection, and more.
 
 By the conclusion of the workshop, you will have learned how to leverage ksqlDB to perform continuous transformations, create materialized views, and serve lookups against these materialized views all with the data you already have in Confluent Cloud.
 
