@@ -1,3 +1,6 @@
+#### Note: This exercise is based on CCloud Workshop Automation Project, attendees dont have to signup using their Credit Cards or their email address. Please make sure you understand & ready to trigger the automation workflow before using this exercise
+
+
 <div align="center" padding=25px>
     <img src="images/confluent.png" width=50% height=50%>
 </div>
